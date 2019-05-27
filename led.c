@@ -1,4 +1,4 @@
-#include "stm32f10x.h"
+#include <reg51.h>
 int main()
 {
 	int a,b;
