@@ -1,4 +1,4 @@
-#include "stm32f10x.h"
+#include <stdio.h>
 int main()
 {
 	int a,b;
